@@ -1,25 +1,41 @@
+
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="140">
+    <td align="center" width="180">
       <a href="https://commons.wikimedia.org/wiki/File:Untitled_moth_butterfly_-_Miss_Harris_-_84_1931_22.jpg">
-        <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Untitled_moth_butterfly_-_Miss_Harris_-_84_1931_22.jpg/500px-Untitled_moth_butterfly_-_Miss_Harris_-_84_1931_22.jpg" width="112" alt="Watercolor moth and butterfly study by Miss Harris" />
+        <img
+          src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Untitled_moth_butterfly_-_Miss_Harris_-_84_1931_22.jpg/500px-Untitled_moth_butterfly_-_Miss_Harris_-_84_1931_22.jpg"
+          width="150"
+          alt="Vintage watercolor butterfly and botanical illustration"
+        />
       </a>
     </td>
     <td align="center">
-      <sub>✦ &nbsp; THE MOONLIT GARDEN &nbsp; ✦</sub><br />
-      <h2>☾ &nbsp; Betül Pehlivan</h2>
+      <sub>──── ✦ &nbsp; THE MOONLIT GARDEN &nbsp; ✦ ────</sub>
+
+      <h1>☾ &nbsp; Betül Pehlivan</h1>
+
       <sub>COMPUTER ENGINEERING · SOFTWARE · DATA · MACHINE LEARNING</sub>
-      <p><em>Curious work, gathered after dark.</em></p>
-      <sub>❦ &nbsp; A little science, a little night air &nbsp; ❦</sub>
+
+      <p>
+        <em>Curious work, gathered after dark.</em>
+      </p>
+
+      <sub>༺ ❦ &nbsp; A little science, a little night air &nbsp; ❦ ༻</sub>
     </td>
   </tr>
 </table>
 
-<sub>Watercolor study by Miss Harris · <a href="https://commons.wikimedia.org/wiki/File:Untitled_moth_butterfly_-_Miss_Harris_-_84_1931_22.jpg">Royal Albert Memorial Museum collection</a> · CC0</sub>
+<p>
+  <sub>
+    ✧ &nbsp; Software · Research · Creativity &nbsp; ✧
+  </sub>
+</p>
 
 </div>
+
 
 ## About
 
