@@ -91,8 +91,6 @@
 
 ---
 
-<!-- PROJECTS -->
-
 <h2 align="center">✧ &nbsp; Selected work &nbsp; ✧</h2>
 
 <p align="center">
@@ -101,184 +99,90 @@
 
 <br />
 
-<!-- PROJECT 1 -->
+<h3>୨୧ &nbsp; Breast Cancer Histopathology Classification</h3>
 
-<table>
-  <tr>
-    <td width="100%" align="left">
+A deep-learning image classification project exploring transformer-based architectures, feature fusion, and classical machine learning.
 
-      <h3>୨୧ &nbsp; Breast Cancer Histopathology Classification</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-30202F?style=flat-square&logo=python&logoColor=F3DCE5" alt="Python" />
+  <img src="https://img.shields.io/badge/Deep_Learning-30202F?style=flat-square&logo=pytorch&logoColor=F3DCE5" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Computer_Vision-30202F?style=flat-square&logoColor=F3DCE5" alt="Computer Vision" />
+</p>
 
-      <p>
-        A deep-learning image classification project exploring transformer-based
-        architectures, feature fusion, and classical machine learning.
-      </p>
+[↗ Explore repository](https://github.com/03betulpehlivan/breast-cancer-histopathology-classification)
 
-      <p>
-        <img src="https://img.shields.io/badge/Python-30202F?style=flat-square&logo=python&logoColor=F3DCE5" alt="Python" />
-        <img src="https://img.shields.io/badge/Deep_Learning-30202F?style=flat-square&logo=pytorch&logoColor=F3DCE5" alt="Deep Learning" />
-        <img src="https://img.shields.io/badge/Computer_Vision-30202F?style=flat-square&logoColor=F3DCE5" alt="Computer Vision" />
-      </p>
+---
 
-      <a href="https://github.com/03betulpehlivan/breast-cancer-histopathology-classification">
-        ↗ Explore repository
-      </a>
+<h3>୨୧ &nbsp; EUDI Wallet Performance Benchmark</h3>
 
-    </td>
-  </tr>
-</table>
+Performance benchmarking and latency analysis for selected European Digital Identity Wallet issuance and verification workflows, developed during my Erasmus+ traineeship.
 
-<br />
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-30202F?style=flat-square&logo=kotlin&logoColor=F3DCE5" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Spring_Boot-30202F?style=flat-square&logo=springboot&logoColor=F3DCE5" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Docker-30202F?style=flat-square&logo=docker&logoColor=F3DCE5" alt="Docker" />
+  <img src="https://img.shields.io/badge/REST_API-30202F?style=flat-square&logoColor=F3DCE5" alt="REST API" />
+</p>
 
-<!-- PROJECT 2 -->
+[↗ Explore repository](https://github.com/03betulpehlivan/eudi-wallet-performance-benchmark)
 
-<table>
-  <tr>
-    <td width="100%" align="left">
+---
 
-      <h3>୨୧ &nbsp; EUDI Wallet Performance Benchmark</h3>
+<h3>୨୧ &nbsp; Turkey Gold Price Forecast</h3>
 
-      <p>
-        Performance benchmarking and latency analysis for selected European
-        Digital Identity Wallet issuance and verification workflows.
-        Developed during my Erasmus+ traineeship.
-      </p>
+An ongoing machine-learning project exploring Turkish physical gold prices using historical price data, USD/TRY exchange rates, ounce gold, and economic indicators.
 
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-30202F?style=flat-square&logo=kotlin&logoColor=F3DCE5" alt="Kotlin" />
-        <img src="https://img.shields.io/badge/Spring_Boot-30202F?style=flat-square&logo=springboot&logoColor=F3DCE5" alt="Spring Boot" />
-        <img src="https://img.shields.io/badge/Docker-30202F?style=flat-square&logo=docker&logoColor=F3DCE5" alt="Docker" />
-        <img src="https://img.shields.io/badge/REST_API-30202F?style=flat-square&logoColor=F3DCE5" alt="REST API" />
-      </p>
+<p>
+  <img src="https://img.shields.io/badge/Python-30202F?style=flat-square&logo=python&logoColor=F3DCE5" alt="Python" />
+  <img src="https://img.shields.io/badge/Machine_Learning-30202F?style=flat-square&logo=scikitlearn&logoColor=F3DCE5" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Time_Series-30202F?style=flat-square&logoColor=F3DCE5" alt="Time Series" />
+</p>
 
-      <a href="https://github.com/03betulpehlivan/eudi-wallet-performance-benchmark">
-        ↗ Explore repository
-      </a>
+[↗ Explore repository](https://github.com/03betulpehlivan/turkey-gold-price-forecast)
 
-    </td>
-  </tr>
-</table>
+---
 
-<br />
+<h3>୨୧ &nbsp; WedSync</h3>
 
-<!-- PROJECT 3 -->
+A real-time wedding and event platform featuring live photo sharing, interactive guest experiences, and event displays.
 
-<table>
-  <tr>
-    <td width="100%" align="left">
+<p>
+  <img src="https://img.shields.io/badge/C%23-30202F?style=flat-square&logo=csharp&logoColor=F3DCE5" alt="C sharp" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-30202F?style=flat-square&logo=dotnet&logoColor=F3DCE5" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/SignalR-30202F?style=flat-square&logo=dotnet&logoColor=F3DCE5" alt="SignalR" />
+  <img src="https://img.shields.io/badge/SQL_Server-30202F?style=flat-square&logo=microsoftsqlserver&logoColor=F3DCE5" alt="SQL Server" />
+</p>
 
-      <h3>୨୧ &nbsp; Turkey Gold Price Forecast</h3>
+[↗ Explore repository](https://github.com/03betulpehlivan/WedSync)
 
-      <p>
-        An ongoing machine-learning project exploring Turkish physical gold prices
-        using historical price data, USD/TRY exchange rates, ounce gold, and
-        relevant economic indicators.
-      </p>
+---
 
-      <p>
-        <img src="https://img.shields.io/badge/Python-30202F?style=flat-square&logo=python&logoColor=F3DCE5" alt="Python" />
-        <img src="https://img.shields.io/badge/Machine_Learning-30202F?style=flat-square&logo=scikitlearn&logoColor=F3DCE5" alt="Machine Learning" />
-        <img src="https://img.shields.io/badge/Time_Series-30202F?style=flat-square&logoColor=F3DCE5" alt="Time Series" />
-      </p>
+<h3>୨୧ &nbsp; Roastify</h3>
 
-      <a href="https://github.com/03betulpehlivan/turkey-gold-price-forecast">
-        ↗ Explore repository
-      </a>
+A Flutter mobile application combining image analysis with character-driven responses using Gemini and Firebase.
 
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Dart-30202F?style=flat-square&logo=dart&logoColor=F3DCE5" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-30202F?style=flat-square&logo=flutter&logoColor=F3DCE5" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Firebase-30202F?style=flat-square&logo=firebase&logoColor=F3DCE5" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Gemini-30202F?style=flat-square&logo=googlegemini&logoColor=F3DCE5" alt="Gemini" />
+</p>
 
-<br />
+[↗ Explore repository](https://github.com/03betulpehlivan/Roastify)
 
-<!-- PROJECT 4 -->
+---
 
-<table>
-  <tr>
-    <td width="100%" align="left">
+<h3>୨୧ &nbsp; TuringLab</h3>
 
-      <h3>୨୧ &nbsp; WedSync</h3>
+A Turing Machine simulator focused on deterministic execution, YAML-based machine definitions, and algorithmic exploration.
 
-      <p>
-        A real-time wedding and event platform featuring live photo sharing,
-        interactive guest experiences, and event displays.
-      </p>
+<p>
+  <img src="https://img.shields.io/badge/Python-30202F?style=flat-square&logo=python&logoColor=F3DCE5" alt="Python" />
+  <img src="https://img.shields.io/badge/Algorithms-30202F?style=flat-square" alt="Algorithms" />
+  <img src="https://img.shields.io/badge/YAML-30202F?style=flat-square" alt="YAML" />
+</p>
 
-      <p>
-        <img src="https://img.shields.io/badge/C%23-30202F?style=flat-square&logo=csharp&logoColor=F3DCE5" alt="C sharp" />
-        <img src="https://img.shields.io/badge/ASP.NET_Core-30202F?style=flat-square&logo=dotnet&logoColor=F3DCE5" alt="ASP.NET Core" />
-        <img src="https://img.shields.io/badge/SignalR-30202F?style=flat-square&logo=dotnet&logoColor=F3DCE5" alt="SignalR" />
-        <img src="https://img.shields.io/badge/SQL_Server-30202F?style=flat-square&logo=microsoftsqlserver&logoColor=F3DCE5" alt="SQL Server" />
-      </p>
-
-      <a href="https://github.com/03betulpehlivan/WedSync">
-        ↗ Explore repository
-      </a>
-
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<!-- PROJECT 5 -->
-
-<table>
-  <tr>
-    <td width="100%" align="left">
-
-      <h3>୨୧ &nbsp; Roastify</h3>
-
-      <p>
-        A Flutter mobile application combining image analysis with
-        character-driven responses using Gemini and Firebase.
-      </p>
-
-      <p>
-        <img src="https://img.shields.io/badge/Dart-30202F?style=flat-square&logo=dart&logoColor=F3DCE5" alt="Dart" />
-        <img src="https://img.shields.io/badge/Flutter-30202F?style=flat-square&logo=flutter&logoColor=F3DCE5" alt="Flutter" />
-        <img src="https://img.shields.io/badge/Firebase-30202F?style=flat-square&logo=firebase&logoColor=F3DCE5" alt="Firebase" />
-        <img src="https://img.shields.io/badge/Gemini-30202F?style=flat-square&logo=googlegemini&logoColor=F3DCE5" alt="Gemini" />
-      </p>
-
-      <a href="https://github.com/03betulpehlivan/Roastify">
-        ↗ Explore repository
-      </a>
-
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<!-- PROJECT 6 -->
-
-<table>
-  <tr>
-    <td width="100%" align="left">
-
-      <h3>୨୧ &nbsp; TuringLab</h3>
-
-      <p>
-        A Turing Machine simulator focused on deterministic execution,
-        YAML-based machine definitions, and algorithmic exploration.
-      </p>
-
-      <p>
-        <img src="https://img.shields.io/badge/Python-30202F?style=flat-square&logo=python&logoColor=F3DCE5" alt="Python" />
-        <img src="https://img.shields.io/badge/Algorithms-30202F?style=flat-square&logoColor=F3DCE5" alt="Algorithms" />
-        <img src="https://img.shields.io/badge/YAML-30202F?style=flat-square&logoColor=F3DCE5" alt="YAML" />
-      </p>
-
-      <a href="https://github.com/03betulpehlivan/turinglab-betulpehlivan">
-        ↗ Explore repository
-      </a>
-
-    </td>
-  </tr>
-</table>
-
-<br />
+[↗ Explore repository](https://github.com/03betulpehlivan/turinglab-betulpehlivan)
 
 ---
 
