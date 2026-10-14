@@ -1,294 +1,161 @@
-
-<!--
-  Betül Pehlivan | GitHub Profile README
-  Theme: Gothic Romance · Dusty Rose · Deep Plum · Ivory
--->
-
 <div align="center">
 
-  <!-- ANIMATED HEADER -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:17121C,35:392337,70:75465F,100:B58A9A&height=220&section=header&text=Bet%C3%BCl%20Pehlivan&fontSize=48&fontColor=FFF4DF&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Software%20%7C%20Data%20%7C%20Machine%20Learning&descSize=13&descAlignY=59&descColor=F3E3C9&animation=fadeIn"
-    width="100%"
-    alt="Betül Pehlivan — Gothic rose themed header"
-  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18251C,283B2D,71836A,C6A56B,75464B&height=270&section=header&text=Bet%C3%BCl%20Pehlivan&fontColor=F3E9D7&fontSize=66&fontAlignY=38&animation=fadeIn&stroke=18251C&strokeWidth=1&desc=Computer%20Engineering%20%C2%B7%20Software%20Development%20%C2%B7%20Data%20Analysis%20%C2%B7%20Machine%20Learning&descSize=15&descColor=F3E9D7&descAlignY=60" alt="Betül Pehlivan" width="100%" />
 
-  <br />
+<a href="https://github.com/03betulpehlivan">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=24&duration=3500&pause=1200&color=F3E9D7&center=true&vCenter=true&width=640&height=48&lines=Curious+work%2C+gathered+with+care.;Turning+ideas+into+working+software.;Exploring+data%2C+models%2C+and+new+ideas.;Learning+something+new+from+every+project." alt="Rotating introduction" />
+</a>
 
-  <!-- BOTANICAL ILLUSTRATION -->
-  <a href="https://commons.wikimedia.org/wiki/File:Untitled_moth_butterfly_-_Miss_Harris_-_84_1931_22.jpg">
-    <img
-      src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Untitled_moth_butterfly_-_Miss_Harris_-_84_1931_22.jpg/500px-Untitled_moth_butterfly_-_Miss_Harris_-_84_1931_22.jpg"
-      width="165"
-      alt="Vintage watercolor butterfly and botanical illustration"
-    />
-  </a>
+<br/>
 
-  <br />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Untitled_moth_butterfly_-_Miss_Harris_-_84_1931_22.jpg/500px-Untitled_moth_butterfly_-_Miss_Harris_-_84_1931_22.jpg" alt="Vintage watercolor butterfly and moth illustration by Miss Harris" width="340" />
 
-  <h3>✦ &nbsp; Welcome to my little corner of GitHub &nbsp; ✦</h3>
+<sub><i>Miss Harris, “Untitled moth butterfly” · <a href="https://commons.wikimedia.org/wiki/File:Untitled_moth_butterfly_-_Miss_Harris_-_84_1931_22.jpg">Wikimedia Commons</a></i></sub>
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=23&duration=3200&pause=1000&color=D9AD72&center=true&vCenter=true&width=650&lines=Curious+work%2C+gathered+with+care.;Turning+ideas+into+working+software.;Exploring+data%2C+models%2C+and+new+ideas."
-    alt="Animated introduction"
-  />
-
-  <br />
-
-  <p>
-    <sub>
-      ❦ &nbsp; SOFTWARE ENGINEERING &nbsp; ✦ &nbsp;
-      DATA & MACHINE LEARNING &nbsp; ✦ &nbsp;
-      CREATIVE PROBLEM SOLVING &nbsp; ❦
-    </sub>
-  </p>
-
-  <br />
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=9A7750&height=2&section=header"
-    width="72%"
-    alt=""
-  />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=22&duration=2500&pause=600&color=A4A078&center=true&vCenter=true&width=420&height=36&lines=%E2%9D%A6+%E2%9C%A6+%E2%98%BE+%E2%9C%A6+%E2%9D%A6;%E2%9C%BF+%E2%9D%A6+%E2%9C%A6+%E2%9D%A6+%E2%9C%BF" alt="" />
 
 </div>
 
-<br />
-
-<!-- ABOUT ME -->
-
-<h2 align="center">୨୧ &nbsp; A little about me &nbsp; ୨୧</h2>
+<h2 align="center">❦ &nbsp;About Me&nbsp; ❦</h2>
 
 <p align="center">
-  I'm a Computer Engineering student interested in building thoughtful software,
-  exploring data, and applying machine learning to real-world problems.
+  I'm a <b>Computer Engineering student</b> interested in <b>software development</b>, <b>data analysis</b>,<br/>
+  <b>machine learning</b>, and practical problem-solving.<br/><br/>
+  During my <b>Erasmus+ traineeship at the University of Szeged</b> in Hungary, I worked on<br/>
+  <b>performance benchmarking</b> for selected <b>EUDI Wallet</b> workflows.<br/><br/>
+  I like learning by building, and turning curiosity into clear, working projects.
 </p>
 
-<p align="center">
-  During my Erasmus+ traineeship at the
-  <strong>University of Szeged, Hungary</strong>,
-  I worked on performance benchmarking for selected European Digital Identity
-  Wallet workflows.
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=20&duration=2500&pause=600&color=71836A&center=true&vCenter=true&width=300&height=30&lines=%E2%9C%A6+%E2%9D%80+%E2%9C%A6" alt="" />
+</div>
 
-<p align="center">
-  I enjoy learning by building, investigating how systems behave,
-  and turning technical ideas into practical projects.
-</p>
+<h2 align="center">✿ &nbsp;Selected Projects&nbsp; ✿</h2>
 
-<br />
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☘ <a href="https://github.com/03betulpehlivan/breast-cancer-histopathology-classification">Breast Cancer Histopathology Classification</a></h3>
+      <p>Deep-learning image classification using Vision Transformers, Swin Transformer, ConvNeXt, feature fusion, and machine-learning classifiers.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-283B2D?style=flat-square&logo=python&logoColor=F3E9D7&labelColor=18251C" alt="Python" />
+        <img src="https://img.shields.io/badge/PyTorch-283B2D?style=flat-square&logo=pytorch&logoColor=F3E9D7&labelColor=18251C" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/Transformers-75464B?style=flat-square&labelColor=18251C" alt="Transformers" />
+        <img src="https://img.shields.io/badge/Feature_Fusion-71836A?style=flat-square&labelColor=18251C" alt="Feature Fusion" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☾ <a href="https://github.com/03betulpehlivan/eudi-wallet-performance-benchmark">EUDI Wallet Performance Benchmark</a></h3>
+      <p>Performance benchmarking and latency analysis of selected EUDI Wallet issuance and verification workflows, developed during my Erasmus+ traineeship.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-283B2D?style=flat-square&logo=kotlin&logoColor=F3E9D7&labelColor=18251C" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/Spring_Boot-283B2D?style=flat-square&logo=springboot&logoColor=F3E9D7&labelColor=18251C" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Docker-283B2D?style=flat-square&logo=docker&logoColor=F3E9D7&labelColor=18251C" alt="Docker" />
+        <img src="https://img.shields.io/badge/Benchmarking-C6A56B?style=flat-square&labelColor=18251C" alt="Benchmarking" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>❀ <a href="https://github.com/03betulpehlivan/turkey-gold-price-forecast">Turkey Gold Price Forecast</a></h3>
+      <p>An ongoing machine-learning project analyzing and forecasting Turkish gram gold prices using historical data and relevant market indicators.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-283B2D?style=flat-square&logo=python&logoColor=F3E9D7&labelColor=18251C" alt="Python" />
+        <img src="https://img.shields.io/badge/Machine_Learning-71836A?style=flat-square&labelColor=18251C" alt="Machine Learning" />
+        <img src="https://img.shields.io/badge/Time_Series-71836A?style=flat-square&labelColor=18251C" alt="Time Series" />
+        <img src="https://img.shields.io/badge/In_Progress-B87558?style=flat-square&labelColor=18251C" alt="In progress" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✦ <a href="https://github.com/03betulpehlivan/WedSync">WedSync</a></h3>
+      <p>A real-time wedding and event platform using ASP.NET Core and SignalR, with live photo sharing and interactive event experiences.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-283B2D?style=flat-square&logo=csharp&logoColor=F3E9D7&labelColor=18251C" alt="C#" />
+        <img src="https://img.shields.io/badge/ASP.NET_Core-283B2D?style=flat-square&logo=dotnet&logoColor=F3E9D7&labelColor=18251C" alt="ASP.NET Core" />
+        <img src="https://img.shields.io/badge/SignalR-75464B?style=flat-square&labelColor=18251C" alt="SignalR" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>❧ <a href="https://github.com/03betulpehlivan/Roastify">Roastify</a></h3>
+      <p>A Flutter mobile application combining image analysis with character-driven responses using Gemini and Firebase.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Dart-283B2D?style=flat-square&logo=dart&logoColor=F3E9D7&labelColor=18251C" alt="Dart" />
+        <img src="https://img.shields.io/badge/Flutter-283B2D?style=flat-square&logo=flutter&logoColor=F3E9D7&labelColor=18251C" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Firebase-283B2D?style=flat-square&logo=firebase&logoColor=F3E9D7&labelColor=18251C" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Gemini-C6A56B?style=flat-square&labelColor=18251C" alt="Gemini" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☽ <a href="https://github.com/03betulpehlivan/turinglab-betulpehlivan">TuringLab</a></h3>
+      <p>A deterministic Turing Machine simulator featuring YAML-based machine definitions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-283B2D?style=flat-square&logo=python&logoColor=F3E9D7&labelColor=18251C" alt="Python" />
+        <img src="https://img.shields.io/badge/YAML-71836A?style=flat-square&labelColor=18251C" alt="YAML" />
+        <img src="https://img.shields.io/badge/Algorithms-C6A56B?style=flat-square&labelColor=18251C" alt="Algorithms" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Software-28291F?style=flat-square&labelColor=28291F&color=A47C4F" alt="Software" />
-  <img src="https://img.shields.io/badge/Data-28291F?style=flat-square&labelColor=28291F&color=A47C4F" alt="Data" />
-  <img src="https://img.shields.io/badge/Machine_Learning-28291F?style=flat-square&labelColor=28291F&color=A47C4F" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Always_Learning-28291F?style=flat-square&labelColor=28291F&color=A47C4F" alt="Always learning" />
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Redoute_-_Rosa_centifolia_foliacea.jpg?width=400" alt="Rosa centifolia foliacea, a rose engraving by Pierre-Joseph Redouté" width="240" />
+
+<sub><i>Pierre-Joseph Redouté, “Rosa centifolia foliacea” (<i>Les Roses</i>) · <a href="https://commons.wikimedia.org/wiki/File:Redoute_-_Rosa_centifolia_foliacea.jpg">Wikimedia Commons</a> · public domain</i></sub>
 
 </div>
 
-<br />
-
----
-
-<h2 align="center">✧ &nbsp; Selected work &nbsp; ✧</h2>
+<h2 align="center">☾ &nbsp;Tools &amp; Interests&nbsp; ☾</h2>
 
 <p align="center">
-  <sub>A collection of experiments, research, and things I've been building.</sub>
+  <img src="https://img.shields.io/badge/Python-283B2D?style=flat-square&logo=python&logoColor=F3E9D7&labelColor=18251C" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-283B2D?style=flat-square&logo=csharp&logoColor=F3E9D7&labelColor=18251C" alt="C#" />
+  <img src="https://img.shields.io/badge/Kotlin-283B2D?style=flat-square&logo=kotlin&logoColor=F3E9D7&labelColor=18251C" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Dart-283B2D?style=flat-square&logo=dart&logoColor=F3E9D7&labelColor=18251C" alt="Dart" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-283B2D?style=flat-square&logo=dotnet&logoColor=F3E9D7&labelColor=18251C" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Flutter-283B2D?style=flat-square&logo=flutter&logoColor=F3E9D7&labelColor=18251C" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Spring_Boot-283B2D?style=flat-square&logo=springboot&logoColor=F3E9D7&labelColor=18251C" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PyTorch-283B2D?style=flat-square&logo=pytorch&logoColor=F3E9D7&labelColor=18251C" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Firebase-283B2D?style=flat-square&logo=firebase&logoColor=F3E9D7&labelColor=18251C" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Docker-283B2D?style=flat-square&logo=docker&logoColor=F3E9D7&labelColor=18251C" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-283B2D?style=flat-square&logo=git&logoColor=F3E9D7&labelColor=18251C" alt="Git" />
 </p>
 
-<br />
-
-<h3>୨୧ &nbsp; Breast Cancer Histopathology Classification</h3>
-
-A deep-learning image classification project exploring transformer-based architectures, feature fusion, and classical machine learning.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-28291F?style=flat-square&logo=python&logoColor=F2E4C9" alt="Python" />
-  <img src="https://img.shields.io/badge/Deep_Learning-28291F?style=flat-square&logo=pytorch&logoColor=F2E4C9" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Computer_Vision-28291F?style=flat-square&logoColor=F2E4C9" alt="Computer Vision" />
-</p>
-
-[↗ Explore repository](https://github.com/03betulpehlivan/breast-cancer-histopathology-classification)
-
----
-
-<h3>୨୧ &nbsp; EUDI Wallet Performance Benchmark</h3>
-
-Performance benchmarking and latency analysis for selected European Digital Identity Wallet issuance and verification workflows, developed during my Erasmus+ traineeship.
-
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-28291F?style=flat-square&logo=kotlin&logoColor=F2E4C9" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Spring_Boot-28291F?style=flat-square&logo=springboot&logoColor=F2E4C9" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Docker-28291F?style=flat-square&logo=docker&logoColor=F2E4C9" alt="Docker" />
-  <img src="https://img.shields.io/badge/REST_API-28291F?style=flat-square&logoColor=F2E4C9" alt="REST API" />
-</p>
-
-[↗ Explore repository](https://github.com/03betulpehlivan/eudi-wallet-performance-benchmark)
-
----
-
-<h3>୨୧ &nbsp; Turkey Gold Price Forecast</h3>
-
-An ongoing machine-learning project exploring Turkish physical gold prices using historical price data, USD/TRY exchange rates, ounce gold, and economic indicators.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-28291F?style=flat-square&logo=python&logoColor=F2E4C9" alt="Python" />
-  <img src="https://img.shields.io/badge/Machine_Learning-28291F?style=flat-square&logo=scikitlearn&logoColor=F2E4C9" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Time_Series-28291F?style=flat-square&logoColor=F2E4C9" alt="Time Series" />
-</p>
-
-[↗ Explore repository](https://github.com/03betulpehlivan/turkey-gold-price-forecast)
-
----
-
-<h3>୨୧ &nbsp; WedSync</h3>
-
-A real-time wedding and event platform featuring live photo sharing, interactive guest experiences, and event displays.
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-28291F?style=flat-square&logo=csharp&logoColor=F2E4C9" alt="C sharp" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-28291F?style=flat-square&logo=dotnet&logoColor=F2E4C9" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/SignalR-28291F?style=flat-square&logo=dotnet&logoColor=F2E4C9" alt="SignalR" />
-  <img src="https://img.shields.io/badge/SQL_Server-28291F?style=flat-square&logo=microsoftsqlserver&logoColor=F2E4C9" alt="SQL Server" />
-</p>
-
-[↗ Explore repository](https://github.com/03betulpehlivan/WedSync)
-
----
-
-<h3>୨୧ &nbsp; Roastify</h3>
-
-A Flutter mobile application combining image analysis with character-driven responses using Gemini and Firebase.
-
-<p>
-  <img src="https://img.shields.io/badge/Dart-28291F?style=flat-square&logo=dart&logoColor=F2E4C9" alt="Dart" />
-  <img src="https://img.shields.io/badge/Flutter-28291F?style=flat-square&logo=flutter&logoColor=F2E4C9" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Firebase-28291F?style=flat-square&logo=firebase&logoColor=F2E4C9" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Gemini-28291F?style=flat-square&logo=googlegemini&logoColor=F2E4C9" alt="Gemini" />
-</p>
-
-[↗ Explore repository](https://github.com/03betulpehlivan/Roastify)
-
----
-
-<h3>୨୧ &nbsp; TuringLab</h3>
-
-A Turing Machine simulator focused on deterministic execution, YAML-based machine definitions, and algorithmic exploration.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-28291F?style=flat-square&logo=python&logoColor=F2E4C9" alt="Python" />
-  <img src="https://img.shields.io/badge/Algorithms-28291F?style=flat-square" alt="Algorithms" />
-  <img src="https://img.shields.io/badge/YAML-28291F?style=flat-square" alt="YAML" />
-</p>
-
-[↗ Explore repository](https://github.com/03betulpehlivan/turinglab-betulpehlivan)
-
----
-
-<!-- TECHNOLOGY STACK -->
-
-<h2 align="center">✧ &nbsp; Tools of the trade &nbsp; ✧</h2>
+<h2 align="center">✦ &nbsp;Garden Notes&nbsp; ✦</h2>
 
 <p align="center">
-  <sub>Technologies I use across my projects and learning journey.</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=03betulpehlivan&show_icons=true&hide=prs,issues,contribs&hide_rank=true&include_all_commits=true&hide_border=true&custom_title=Garden%20Notes&bg_color=0D1117&title_color=C6A56B&text_color=F3E9D7&icon_color=71836A" alt="GitHub stars and commits" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=03betulpehlivan&layout=compact&hide_border=true&langs_count=6&title_color=C6A56B&text_color=F3E9D7&bg_color=0D1117" alt="Most used languages" height="150" />
 </p>
 
-<br />
+<h2 align="center">❀ &nbsp;Currently Exploring&nbsp; ❀</h2>
 
-<h3 align="center">Languages</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-28291F?style=for-the-badge&logo=python&logoColor=F2E4C9" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-28291F?style=for-the-badge&logo=csharp&logoColor=F2E4C9" alt="C sharp" />
-  <img src="https://img.shields.io/badge/Java-28291F?style=for-the-badge&logo=openjdk&logoColor=F2E4C9" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-28291F?style=for-the-badge&logo=kotlin&logoColor=F2E4C9" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Dart-28291F?style=for-the-badge&logo=dart&logoColor=F2E4C9" alt="Dart" />
-</p>
-
-<h3 align="center">Frameworks & Platforms</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ASP.NET_Core-28291F?style=for-the-badge&logo=dotnet&logoColor=F2E4C9" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/Spring_Boot-28291F?style=for-the-badge&logo=springboot&logoColor=F2E4C9" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Flutter-28291F?style=for-the-badge&logo=flutter&logoColor=F2E4C9" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Firebase-28291F?style=for-the-badge&logo=firebase&logoColor=F2E4C9" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Docker-28291F?style=for-the-badge&logo=docker&logoColor=F2E4C9" alt="Docker" />
-</p>
-
-<h3 align="center">Data & AI</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-28291F?style=for-the-badge&logo=scikitlearn&logoColor=F2E4C9" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Deep_Learning-28291F?style=for-the-badge&logo=pytorch&logoColor=F2E4C9" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/SQL_Server-28291F?style=for-the-badge&logo=microsoftsqlserver&logoColor=F2E4C9" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Git-28291F?style=for-the-badge&logo=git&logoColor=F2E4C9" alt="Git" />
-</p>
-
-<br />
-
----
-
-<!-- CURRENT INTERESTS -->
-
-<h2 align="center">☾ &nbsp; Currently exploring &nbsp; ☽</h2>
+<table align="center">
+  <tr>
+    <td align="center" width="33%" valign="top"><b>❦ Intelligent Systems</b><br/><sub>Machine learning, model evaluation, and data-driven insights.</sub></td>
+    <td align="center" width="33%" valign="top"><b>✧ Software Engineering</b><br/><sub>APIs, backend systems, performance, and reliable architecture.</sub></td>
+    <td align="center" width="33%" valign="top"><b>☾ Building &amp; Learning</b><br/><sub>Turning experiments into useful, well-structured projects.</sub></td>
+  </tr>
+</table>
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>❦</h3>
-        <strong>Intelligent Systems</strong>
-        <br />
-        <sub>Machine learning, model evaluation, and data-driven insights.</sub>
-      </td>
-      <td align="center" width="33%">
-        <h3>✧</h3>
-        <strong>Software Engineering</strong>
-        <br />
-        <sub>APIs, backend systems, performance, and reliable architecture.</sub>
-      </td>
-      <td align="center" width="33%">
-        <h3>୨୧</h3>
-        <strong>Building & Learning</strong>
-        <br />
-        <sub>Turning experiments into useful, well-structured projects.</sub>
-      </td>
-    </tr>
-  </table>
+<br/>
 
-</div>
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Kunstformen_der_Natur_(Tafel_74)_(6197846168).jpg?width=400" alt="Orchids, plate 74 from Ernst Haeckel's Kunstformen der Natur" width="230" />
 
-<br />
+<sub><i>Ernst Haeckel, <i>Kunstformen der Natur</i>, Plate 74 · <a href="https://commons.wikimedia.org/wiki/Category:Kunstformen_der_Natur">Wikimedia Commons</a> · public domain</i></sub>
 
-<!-- CONTACT -->
+<h2>✦ &nbsp;Find Me on GitHub&nbsp; ✦</h2>
 
-<h2 align="center">✦ &nbsp; Find me on GitHub &nbsp; ✦</h2>
+<a href="https://github.com/03betulpehlivan">
+  <img src="https://img.shields.io/badge/Explore_my_repositories-283B2D?style=for-the-badge&logo=github&logoColor=F3E9D7&labelColor=18251C" alt="Explore my GitHub repositories" />
+</a>
 
-<p align="center">
-  Feel free to explore my repositories and follow along with my work.
-</p>
+<br/><br/>
 
-<div align="center">
-
-  <a href="https://github.com/03betulpehlivan">
-    <img
-      src="https://img.shields.io/badge/Explore_my_repositories-392337?style=for-the-badge&logo=github&logoColor=F2E4C9"
-      alt="Explore my GitHub repositories"
-    />
-  </a>
-
-  <br /><br />
-
-  <sub>Made with curiosity, patience, and a little love for details.</sub>
-
-  <br /><br />
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:17121C,45:392337,100:75465F&height=110&section=footer"
-    width="100%"
-    alt=""
-  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=75464B,C6A56B,71836A,283B2D,18251C&height=150&section=footer&text=Thank%20you%20for%20visiting&fontColor=F3E9D7&fontSize=24&fontAlignY=66&animation=twinkling" alt="" width="100%" />
 
 </div>
