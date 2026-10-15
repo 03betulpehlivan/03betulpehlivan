@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 40" width="900" height="40">
+  <defs>
+    <linearGradient id="l" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b8975a" stop-opacity="0"/>
+      <stop offset="1" stop-color="#b8975a"/>
+    </linearGradient>
+    <linearGradient id="r" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b8975a"/>
+      <stop offset="1" stop-color="#b8975a" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="150" y="19.5" width="270" height="1.2" fill="url(#l)"/>
+  <rect x="480" y="19.5" width="270" height="1.2" fill="url(#r)"/>
+  <!-- center ornament -->
+  <g transform="translate(450 20)">
+    <path d="M0,-11 L4,0 L0,11 L-4,0 Z" fill="none" stroke="#c6a56b" stroke-width="1.2">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <circle r="1.6" fill="#c6a56b">
+      <animate attributeName="r" values="1;2.4;1" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-22" r="1.6" fill="#75464b"/>
+    <circle cx="22" r="1.6" fill="#75464b"/>
+    <circle cx="-36" r="1" fill="#71836a"/>
+    <circle cx="36" r="1" fill="#71836a"/>
+  </g>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 150" width="900" height="150">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="1" stop-color="#2a1216"/>
+    </linearGradient>
+    <radialGradient id="flame" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#e8b86a" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#e8b86a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="150" fill="url(#bg)"/>
+
+  <!-- gothic skyline -->
+  <path fill="#0b0807" d="M0,150 V118 H40 V98 L52,70 L64,98 V118 H110 V104 H130 V118 H190 V90 L204,52 L218,90 V118 H270 V108 H300 V118 H360 V96 L372,64 L384,96 V118 H450 V100 L462,72 L474,100 V118 H540 V108 H570 V118 H630 V92 L644,56 L658,92 V118 H720 V104 H745 V118 H800 V98 L812,68 L824,98 V118 H870 V108 H900 V150 Z"/>
+
+  <!-- candle -->
+  <g transform="translate(450 0)">
+    <circle cx="0" cy="62" r="46" fill="url(#flame)">
+      <animate attributeName="opacity" values="0.4;1;0.55;0.95;0.4" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="-5" y="80" width="10" height="26" rx="1" fill="#d9c9a8"/>
+    <path d="M0,50 Q-7,66 0,78 Q7,66 0,50 Z" fill="#ffd27a">
+      <animate attributeName="opacity" values="1;0.7;1;0.85;1" dur="1.3s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- fireflies -->
+  <g fill="#c6a56b">
+    <circle cx="120" cy="80" r="1.6"><animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/><animate attributeName="cy" values="90;60;90" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="300" cy="60" r="1.3"><animate attributeName="opacity" values="0;1;0" dur="5s" repeatCount="indefinite"/><animate attributeName="cy" values="70;40;70" dur="9s" repeatCount="indefinite"/></circle>
+    <circle cx="610" cy="70" r="1.6"><animate attributeName="opacity" values="0;1;0" dur="3.5s" repeatCount="indefinite"/><animate attributeName="cy" values="80;50;80" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="780" cy="55" r="1.3"><animate attributeName="opacity" values="0;1;0" dur="4.5s" repeatCount="indefinite"/><animate attributeName="cy" values="65;35;65" dur="10s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <text x="450" y="138" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, 'Times New Roman', serif" font-size="13" font-style="italic" letter-spacing="3" fill="#b8975a" opacity="0.9">
+    finis coronat opus
+  </text>
+</svg>
